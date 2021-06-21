@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       Our Creator is great.
-      netlify cli.
+      netlify cli with CI/CD.
     </div>
   );
 }
